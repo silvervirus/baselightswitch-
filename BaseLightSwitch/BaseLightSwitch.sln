@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34407.89
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseLightSwitch", "BaseLightSwitch.csproj", "{CB867A2B-E492-4A0F-B30C-F5D70C0589BB}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "RewrittenRamuneLib", "..\..\..\..\SubnauticaPlugins-Nautilus-main\RewrittenRamuneLibsn\RewrittenRamuneLib.shproj", "{EBB8A44E-C589-4F9B-BFE8-209603E19EEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB867A2B-E492-4A0F-B30C-F5D70C0589BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB867A2B-E492-4A0F-B30C-F5D70C0589BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB867A2B-E492-4A0F-B30C-F5D70C0589BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB867A2B-E492-4A0F-B30C-F5D70C0589BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCA86E73-0415-4C4E-980D-EE4C23057F01}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\..\..\..\SubnauticaPlugins-Nautilus-main\RewrittenRamuneLibsn\RewrittenRamuneLib.projitems*{cb867a2b-e492-4a0f-b30c-f5d70c0589bb}*SharedItemsImports = 4
+		..\..\..\..\SubnauticaPlugins-Nautilus-main\RewrittenRamuneLibsn\RewrittenRamuneLib.projitems*{ebb8a44e-c589-4f9b-bfe8-209603e19eea}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal

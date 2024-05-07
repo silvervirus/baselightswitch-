@@ -1,0 +1,14 @@
+C:\Users\Cookay\Desktop\BaseLightSwitch\BaseLightSwitch\obj\Debug\BaseLightSwitch.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\BaseLightSwitch\BaseLightSwitch\obj\Debug\BaseLightSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\BaseLightSwitch\BaseLightSwitch\obj\Debug\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\BaseLightSwitch\BaseLightSwitch\obj\Debug\BaseLightSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\BaseLightSwitch\BaseLightSwitch\bin\Debug\BaseLightSwitch.dll
+C:\Users\Cookay\Desktop\BaseLightSwitch\BaseLightSwitch\bin\Debug\System.dll
+C:\Users\Cookay\Desktop\BaseLightSwitch\BaseLightSwitch\obj\Debug\BaseLightSwitch.csproj.CopyComplete
+C:\Users\Cookay\Desktop\BaseLightSwitch\BaseLightSwitch\obj\Debug\BaseLightSwitch.dll
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseLightSwitch\BaseLightSwitch\bin\Debug\BaseLightSwitch.dll
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseLightSwitch\BaseLightSwitch\obj\Debug\BaseLightSwitch.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseLightSwitch\BaseLightSwitch\obj\Debug\BaseLightSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseLightSwitch\BaseLightSwitch\obj\Debug\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseLightSwitch\BaseLightSwitch\obj\Debug\BaseLightSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseLightSwitch\BaseLightSwitch\obj\Debug\BaseLightSwitch.dll
